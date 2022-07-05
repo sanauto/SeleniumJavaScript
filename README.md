@@ -16,6 +16,7 @@
 
       npm init
       npm install selenium-webdriver
+      npm install chromedriver
       
 8.) Execute the automated scripts by using the following command in the terminal
 
